@@ -1,0 +1,147 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.navbar{
+    width:100%;
+    height:40px;
+    background-color: #333333;
+    color:white;
+    padding-top:75px;
+    display:flex;
+    overflow:hidden;
+    margin-top:-50px;
+    position:fixed;
+   
+}
+.navbar .e1{
+    color:white;
+    border-color: #333333;
+    margin-left:850px;
+    margin-bottom:50px;
+}
+.container{
+    height:750px;
+    width:100%;
+    margin-left:0px;
+    background-image:"background.jpg";
+   /*overflow:scroll;*/
+    
+}
+.navbar .e1 a{
+    color:white;
+    text-decoration: none;
+    margin:15px;
+    
+}
+.next1{
+    height:2100px;
+    width:100vw;
+    background-color: rgb(229, 228, 226);
+   /* align-content: center;*/
+    padding-left:550px;
+    padding-top: 100px;
+
+}
+.main{
+    overflow-x:scroll;
+}
+.next1 .e1 {
+    margin-left:60px;
+    text-align: center;
+}
+.next1  .e3{
+    height:300px;
+    width:200px;
+    background-color: white;
+    padding-top:30px;
+    padding-left:85px;
+    padding-right:65px;
+    margin-right:90px;
+    margin-left: 0px;
+    text-align:center;
+}
+.next1  .e4{
+    height:300px;
+    width:200px;
+    background-color: white;
+    padding-top:30px;
+    padding-left:115px;
+    padding-right:75px;
+}
+.next1 .e5{
+    height:300px;
+    width:200px;
+    background-color: white;
+    padding-top:30px;
+    padding-left:115px;
+    padding-right:75px;
+}
+.next1 .e6{
+    height:300px;
+    width:200px;
+    background-color: white;
+   
+    padding-top:30px;
+    padding-left:115px;
+    padding-right:75px;
+}
+.next1 .e7{
+    height:300px;
+    width:200px;
+    background-color: white;
+    padding-top:30px;
+    padding-left:115px;
+    padding-right:75px;
+}
+.next1  .e8{
+    height:300px;
+    width:200px;
+    background-color: white;
+    padding-top:30px;
+    padding-left:115px;
+    padding-right:75px;
+}
+.next1 {
+    display:flex;
+}
+.next1 .s2{
+    text-align: center;
+}
+.next2{
+    height:370px;
+    width:100vw;
+    background-color: rgb(229, 228, 226);
+   /* align-content: center;*/
+    padding-left:550px;
+    padding-top: 100px;
+}
+.next2 .p1{
+    margin-right:15px;
+}
+.next3{
+    height:500px;
+    width:100vw;
+    background-color: rgb(229, 228, 226);
+   /* align-content: center;*/
+    padding-left:550px;
+    padding-top: 100px;
+}
+.next3 .address{
+    display:flex;
+}
+.next3{
+    display:flex;
+}
+ .t1{
+    width:50%;
+    display:flex;
+    flex-direction: column;
+}
+.form{
+    width:50%;
+}
+.next1 .e1{
+    display:flex;
+    flex:wrap;
+}
